@@ -1,3 +1,3 @@
 var y = "placeholder";
-var x = "magnifying glass";
+var x = "magnifying glass"
 
