@@ -1,0 +1,1 @@
+var a = "next2.js"
