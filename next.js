@@ -1,0 +1,1 @@
+var x = "next1.js";
